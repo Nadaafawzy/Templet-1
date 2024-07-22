@@ -33,6 +33,7 @@ body {
     --light: rgb(51, 51, 51);
     --sec-grey: rgba(207, 207, 207, 0.842);
     --back: rgb(240, 232, 232);
+    --main-duration: 0.5s;
 }
 /* Start Header */
 .header {
